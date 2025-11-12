@@ -12,21 +12,7 @@
 
 # Euro denominations in cents, from largest to smallest
 EURO_DENOMINATIONS = {
-    "500€ bill": 50000,
-    "200€ bill": 20000,
-    "100€ bill": 10000,
-    "50€ bill": 5000,
-    "20€ bill": 2000,
-    "10€ bill": 1000,
-    "5€ bill": 500,
-    "2€ coin": 200,
-    "1€ coin": 100,
-    "50c coin": 50,
-    "20c coin": 20,
-    "10c coin": 10,
-    "5c coin": 5,
-    "2c coin": 2,
-    "1c coin": 1
+    "500€ bill": 50000,"200€ bill": 20000,"100€ bill": 10000,"50€ bill": 5000,"20€ bill": 2000,"10€ bill": 1000,"5€ bill": 500,"2€ coin": 200,"1€ coin": 100,"50c coin": 50,"20c coin": 20,"10c coin": 10,"5c coin": 5,"2c coin": 2,"1c coin": 1
 }
 
 # ==========================================================
@@ -34,21 +20,7 @@ EURO_DENOMINATIONS = {
 # Se modificará con cada transacción.
 # ==========================================================
 cash_register_stock = {
-    "500€ bill": 2,    # 2 billetes de 500€
-    "200€ bill": 3,
-    "100€ bill": 5,
-    "50€ bill": 10,
-    "20€ bill": 20,
-    "10€ bill": 7,     # Tu ejemplo
-    "5€ bill": 15,
-    "2€ coin": 30,
-    "1€ coin": 30,
-    "50c coin": 40,
-    "20c coin": 40,
-    "10c coin": 40,
-    "5c coin": 20,
-    "2c coin": 20,
-    "1c coin": 20
+    "500€ bill": 2,"200€ bill": 3,"100€ bill": 5,"50€ bill": 10,"20€ bill": 20,"10€ bill": 7,"5€ bill": 15,"2€ coin": 30,"1€ coin": 30,"50c coin": 40,"20c coin": 40,"10c coin": 40,"5c coin": 20,"2c coin": 20,"1c coin": 20
 }
 # ==========================================================
 
