@@ -25,43 +25,43 @@ ________________________________________________________________________________
 
 📂 Project Structure
 
-The program includes:
+- The program includes:
 
-A global dictionary of euro denominations
+- A global dictionary of euro denominations
 
-A configurable initial cash register stock
+- A configurable initial cash register stock
 
-A function that computes change using available units
+- A function that computes change using available units
 
-A display function that prints the change breakdown
+- A display function that prints the change breakdown
 
-A terminal-based execution workflow
+- A terminal-based execution workflow
 __________________________________________________________________________________
 
 🧮 How It Works
 
-The user inputs:
+- The user inputs:
 
-Product price
+- Product price
 
-Amount paid
+- Amount paid
 
-The program:
+- The program:
 
-Converts everything to cents
+- Converts everything to cents
 
-Calculates the required change
+- Calculates the required change
 
-Determines how many bills/coins can actually be given
+- Determines how many bills/coins can actually be given
 
-Updates the inventory in real time
+- Updates the inventory in real time
 
-It then displays:
+- It then displays:
 
-Total change
+- Total change
 
-Breakdown of each bill/coin used
+- Breakdown of each bill/coin used
 
-Warning if exact change is impossible
+- Warning if exact change is impossible
 
-Final inventory and total cash value
+- Final inventory and total cash value
