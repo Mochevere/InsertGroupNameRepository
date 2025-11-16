@@ -21,6 +21,7 @@ It supports all euro denominations and handles monetary values precisely by conv
 ✔️ Displays final inventory and total cash value
 
 ✔️ Clean, modular, and well-documented code
+__________________________________________________________________________________
 
 📂 Project Structure
 
@@ -35,6 +36,7 @@ A function that computes change using available units
 A display function that prints the change breakdown
 
 A terminal-based execution workflow
+__________________________________________________________________________________
 
 🧮 How It Works
 
