@@ -8,19 +8,19 @@ It supports all euro denominations and handles monetary values precisely by conv
 
 ✨ Features
 
-✔️ Accurate change calculation using cents (no floating-point errors)
+✔️ Accurate change calculation using cents (no floating-point errors).
 
-✔️ Supports all euro denominations (bills + coins)
+✔️ Supports all euro denominations (bills + coins).
 
-✔️ Uses a real cash register stock and only returns available bills/coins
+✔️ Uses a real cash register stock and only returns available bills/coins.
 
-✔️ Automatically updates the cash register inventory
+✔️ Automatically updates the cash register inventory.
 
-✔️ Warns if exact change cannot be returned
+✔️ Warns if exact change cannot be returned.
 
-✔️ Displays final inventory and total cash value
+✔️ Displays final inventory and total cash value.
 
-✔️ Clean, modular, and well-documented code
+✔️ Clean, modular, and well-documented code.
 __________________________________________________________________________________
 
 📂 Project Structure
@@ -49,14 +49,14 @@ The program:
 
  - Determines how many bills/coins can actually be given.
    
- - Updates the inventory in real time
+ - Updates the inventory in real time.
    
 It then displays:
    
- - Total change
+ - Total change.
 
- - Breakdown of each bill/coin used
+ - Breakdown of each bill/coin used.
    
- - Warning if exact change is impossible
+ - Warning if exact change is impossible.
   
- - Final inventory and total cash value
+ - Final inventory and total cash value.
