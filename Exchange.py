@@ -1,6 +1,6 @@
 # ===========================================
 # Euro Exchange Calculator (Bills + Coins)
-# Author: [Insert Group Namehttps://soundcloud.com/moises-miranda-rivero/fresco-pinguinoedicion-braille]
+# Author: [Insert Group Name]
 # License: MIT License
 # ===========================================
 
@@ -123,3 +123,4 @@ if __name__ == "__main__":
         # ----------------------------------------------------
     except ValueError as e:
         print(e)
+
