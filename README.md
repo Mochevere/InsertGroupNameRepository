@@ -27,27 +27,27 @@ ________________________________________________________________________________
 
 The program includes:
 
-- A global dictionary of euro denominations
-- A configurable initial cash register stock
-- A function that computes change using available units
-- A display function that prints the change breakdown
-- A terminal-based execution workflow
+- A global dictionary of euro denominations.
+- A configurable initial cash register stock.
+- A function that computes change using available units.
+- A display function that prints the change breakdown.
+- A terminal-based execution workflow.
 __________________________________________________________________________________
 
 🧮 How It Works
 
 The user inputs:
   
- - Product price
+ - Product price.
   
- - Amount paid
+ - Amount paid.
 
 The program:
- - Converts everything to cents
+ - Converts everything to cents.
   
- - Calculates the required change
+ - Calculates the required change.
 
- - Determines how many bills/coins can actually be given
+ - Determines how many bills/coins can actually be given.
    
  - Updates the inventory in real time
    
